@@ -1,0 +1,8 @@
+.env
+.venv/
+data/
+logs/
+*.duckdb
+__pycache__/
+sql.py
+explore.py

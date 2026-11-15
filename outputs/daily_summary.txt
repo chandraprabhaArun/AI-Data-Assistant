@@ -1,0 +1,26 @@
+📊 Daily Summary – 31 Oct 2026 (vs 30 Oct)
+
+💰 Deposits
+• Attempts: 858 (-41.8%) 🔻
+• Approved: 675 for ₹945,590 (-40.8%) 🔻
+• Approval rate: 78.7% (prev 81.0%, -2.3 pp)
+
+🏦 Approval rate by PSP
+• BankLink: 91.4% (106/116), -1.0 pp
+• CoinBridge: 94.8% (55/58), +2.9 pp
+• PayNova: 76.3% (187/245), -7.1 pp
+• QuickUPI: 74.1% (129/174), -0.8 pp
+• SwiftPe: 61.8% (84/136), -3.1 pp
+• ZenPay: 88.4% (114/129), +2.5 pp
+
+💸 Withdrawals
+• Requested: 232 (-28.4%) 🔻
+• Approved amount: ₹502,300 (-25.2%) 🔻
+
+🧮 Hold: ₹443,290 (prev ₹925,730, -52.1%)
+
+🔎 Biggest changes vs 30 Oct
+• Context: all PSPs and methods fell; logins also fell (770 → 491)
+• Hold: 925,730.0 → 443,290.0 (-52.1%)
+• Approved deposit count: 1,193.0 → 675.0 (-43.4%)
+• Deposit attempts: 1,473.0 → 858.0 (-41.8%)
